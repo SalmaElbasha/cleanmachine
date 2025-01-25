@@ -1,0 +1,35 @@
+const home = "Home";
+const history= "History";
+const profile = "Profile";
+const plan= "Plan";
+const reject = "Reject";
+const waiting = "Waiting";
+const review = "Review";
+const noDataAvailable = "NoDataAvailable";
+const accept = "Accept";
+const onReview = "OnReview";
+const refused = "Refused";
+const logOut = "LogOut";
+const ar = "Ar";
+const en = "En";
+const hiThere = "HiThere";
+const welcomeBack = "WelcomeBack";
+const signInToYourAccount = "signInToYourAccount";
+const email = "email";
+const password = "password";
+const rememberMe = "rememberMe";
+const logIn = "logIn";
+const location = "location";
+const beforeClean = "beforeClean";
+const afterClean = "afterClean";
+const damageComment = "damageComment";
+const visitedComment = "VisitedComment";
+const orderNum = "orderNum";
+const serialNum = "serialNum";
+const send = "send";
+const orderDetails = "orderDetails";
+const fromDate = "fromDate";
+const toDate = "toDate";
+const comments = "comments";
+
+
